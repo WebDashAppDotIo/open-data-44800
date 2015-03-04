@@ -6,7 +6,9 @@ Public, Free, Open Data Resources for Saint-Herblain (44800, France)
 License Information
 -------------------
 
-* [Open License](http://wiki.data.gouv.fr/images/0/05/Open_Licence.pdf)
+![](resources/170px-Logo-licence-ouverte2.svg.png)
+
+* [Open License](http://wiki.data.gouv.fr/images/9/9d/Licence_Ouverte.pdf) (fr)
 * You can find a copy of this software here: https://github.com/ronanguilloux/open-data-44800
 
 
