@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "CivicStructure",
+  "name": "Déchetterie de Saint-Herblain",
+  "alternateName": "Déchetterie de Tougas",
+  "description": "",
+  "isicV4": "E38",
+  "sameAs": "http://www.nantesmetropole.fr/pratique/dechets/dechetterie-23168.kjsp?RH=1250010215678",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Saint-Herblain",
+    "addressRegion": "Loire-Atlantique",
+    "postalCode": "44800",
+    "streetAddress": "151 quai Emile Cormerais"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.197170",
+    "longitude": "-1.642020"
+  },
+  "openingHours": "Mo,Tu,We,Th,Fr 10:00-17:45",
+  "openingHoursSpecification":
+  {
+    "@type": "OpeningHoursSpecification",
+    "opens": "12:00",
+    "closes": "14:00"
+  },
+  "hasMap": "https://www.google.fr/maps/@47.1971667,-1.6420278,17z",
+  "telephone": "+33 2 51 80 90 27",
+  "extensions": {
+    "closedOnHoliday": true,
+    "hasOpenStreetMap": "http://www.openstreetmap.org/search?query=D%C3%A9chetterie%20Tougas%20Saint-Herblain"
+  }
+}
